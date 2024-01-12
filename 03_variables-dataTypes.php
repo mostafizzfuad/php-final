@@ -28,7 +28,7 @@ $number2 = 30;
         - booleans : false 
         - integers and floats : 0
         - string : "" (empty string)
-        - array : [] (empty array)
+        - array : array() (empty array)
 -->
 
 

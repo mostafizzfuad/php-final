@@ -13,8 +13,8 @@ echo $full_name;
 
 // strcmp($str1, $str2) : compare between two strings
 /*  0 : if the two strings are equal
-    1 or greater than 0 : if string1 is greater than string2 
-    -1 or less than 0 : if string1 is less than string2 
+    1 or greater than 0 : if string1 > string2 
+    -1 or less than 0 : if string1 < string2 
 */
 $str1 = 50;
 $str2 = 60;
